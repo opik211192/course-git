@@ -9,3 +9,5 @@ check routes url team di:
 /team5 (not ready)
 /team6
 /team7
+
+urang karek diajar duh tinggaleun
